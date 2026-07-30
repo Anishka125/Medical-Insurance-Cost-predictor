@@ -1,8 +1,10 @@
 import streamlit as st
 import pickle
 
-import pickle
+
 import os
+import sklearn
+print(sklearn.__version__)
 
 model_path = os.path.join(os.path.dirname(__file__), "model.pkl")
 
