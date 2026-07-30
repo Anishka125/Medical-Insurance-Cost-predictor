@@ -15,5 +15,4 @@ Features
 Predicts medical insurance charges
 Data preprocessing and feature encoding
 Model training and evaluation
-User-friendly prediction interface (if applicable)
 Visualizes data insights and model performance
